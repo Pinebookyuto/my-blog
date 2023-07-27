@@ -1,0 +1,41 @@
+.ArticleCard {
+  border: 1px solid #000000;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: rgb(216, 211, 211);
+}
+
+.ArticleCard__titleAndDate__title{
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.ArticleCard__titleAndDate__date{
+    font-size: 10px;
+}
+
+.maintitle{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  margin-bottom: 10px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-weight: 1000;
+}
+
+main{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+body{
+  background-image: url("https://cdn-ak.f.st-hatena.com/images/fotolife/p/powerinteractive/20221020/20221020074849.jpg");
+}
